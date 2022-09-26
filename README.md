@@ -18,5 +18,5 @@ To conduct my analysis, I used Jupyter Notebook to write clean and concise `Pyth
 
 
 ### Graph of the States Usage of Water
-![Alt text](relative/path/to/stateWater.jpg?raw=true "State Water Consumption")
+![Alt text](Images/stateWater.png?raw=true "State Water Consumption")
 
