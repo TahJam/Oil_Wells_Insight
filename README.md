@@ -8,7 +8,7 @@ In this case study, I downloaded a dataset from [FracFocus](https://fracfocus.or
 - The reason water was the focus of this analysis was because, while it plays a crucial role in fracking and drilling, it is also a key resource for local communities. It is important that the Operators of the wells use the fresh water resource responsibly and make sure that the water supply is not negatively impacted by their use
 
 ## Tools Used
-To conduct this analysis, Jupyter Notebook was used to write clean and concise `Python` code to read the data. It was cleaned apporopriately and then the analysis would be run on the cleaned data. `Pandas DataFrame` was used to read and store the data and `matplotlib` was used to create insightful graphs about the volume of water and nonwater substances used by the different wells around the United States. 
+To conduct this analysis, Jupyter Notebook was used to write clean and concise `Python` code to read the data. The data was cleaned apporopriately and the analysis was run on the cleaned data. `Pandas DataFrame` was used to read and store the data and `matplotlib` was used to create insightful graphs about the volume of water and nonwater substances used by the different wells around the United States. 
 
 ## Findings and Graphs
 **State that used the least amount of water:** Idaho <br>
