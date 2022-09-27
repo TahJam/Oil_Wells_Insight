@@ -8,9 +8,10 @@ This Case Study involves running Statistical Analysis on a Dataset provided by F
 - Focus on water and non-water substance’s used in the base of the hydraulic system of each well used in the fracking jobs
 - Wells were grouped by the demographic data grouped by State and County
 - Water has vital role in fracking and drilling, as also is a key resource for local communities. It is important that the Well Operators assume the social responsibility of the balanced use of fresh water
-
+## Prerequisite
+Many components of this project are best viewed in light mode therefore it is required that viewers have their system setting in light mode (dark mode is not recommended).
 ## Tools Used
-Jupyter Notebook was used to:
+`Jupyter Notebook` was used to:
 - Write clean and concise `Python` code to read the data
 - Run analysis on the cleaned data
  
@@ -185,5 +186,9 @@ Several insights can be drawn from this analysis
   - Areas of expansion of drilling activity by location
   - Discontinuation of fracking activity of non-performing Well
 ## Other Areas to Analyze
-There are many other areas to focus an analysis, however, with the constraint of time and resources, this analysis has been limited to just the usage of water. One such area could be about the materials used in the wells for different purposes. For example, many wells used Crystalline Silica Quartz as a proppant, others used Coconut Diethanolamide as a non-emulsifying acid. After grouping all the materials by their location, businesses can use this knowledge to determine what materials are needed where and therefore allocate their own supplies to the places of high demand. 
+Due to the constraint of time and resources, this analysis has been limited to just the usage of water. <br>
+Other areas to analyze: 
+- The materials used in the wells for different purposes. 
+  - Many wells used Crystalline Silica Quartz as a proppant, others used Coconut Diethanolamide as a non-emulsifying acid. 
+  - After grouping all the materials by their location, businesses can use this knowledge to determine what materials are needed where and therefore allocate their own supplies to the places of high demand. 
 
