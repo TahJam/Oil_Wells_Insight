@@ -16,7 +16,7 @@ To conduct my analysis, I used Jupyter Notebook to write clean and concise `Pyth
 
 ### Graphs of Counties in Each State
 <p align="center">
- <img src="Images/Alabama.png" alt="Alt text" title="Alabama Water Consumption" style="background-color:white"><br>
+ <img src="Images/Alabama.png" alt="Alt text" title="Alabama Water Consumption" style="background-color:33AFFF"><br>
  Alabama Water Consumption
 </p>
 
