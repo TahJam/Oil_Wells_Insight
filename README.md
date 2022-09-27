@@ -15,8 +15,15 @@ To conduct my analysis, I used Jupyter Notebook to write clean and concise `Pyth
   * The state of Texas has wells in 188 different counties and used almost 650 billion gallons of water. Out of the counties in Texas, Midland used the most water; close to 73 billion gallons of water. <br>
 
 ### Graphs of Counties in Each State
+Alabama's Water Consumption
+<img src="Images/Alabama.png" alt="Alt text" title="Alabama Water Consumption" style="background-color:white">
+
+Alaska's Water Consumption
+
+<img src="Images/Alaska.png" alt="Alaska Water Consumption" title="Alaska Water Consumption" style="background-color:white">
+
 
 
 ### Graph of the States Usage of Water
-![Alt text](Images/stateWater.png?raw=true "State Water Consumption")
+![Alt text](Images/stateWater.png "State Water Consumption")
 
