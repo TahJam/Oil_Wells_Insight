@@ -1,14 +1,24 @@
 # CaseStudy2 - FracFocus
 
 ## Introduction
-In this case study, I downloaded a dataset from [FracFocus](https://fracfocus.org/data-download) and decided to run a statistical analysis of my choosing to make sense of the raw data. 
-- As the dataset is very large, the data is first cleanesed and the attributes that did not contribute to the analysis are dropped
-- The focus of this analysis is on the water and nonwater susbtances used in the base of the hydraulic system of each well that was used in the fracking jobs
-- The wells were grouped together by the counties they were located in and then the counties were grouped together into the individual states they are located in
-- The reason water was the focus of this analysis was because, while it plays a crucial role in fracking and drilling, it is also a key resource for local communities. It is important that the Operators of the wells use the fresh water resource responsibly and make sure that the water supply is not negatively impacted by their use
+This Case Study involves running Statistical Analysis on a Dataset provided by FracFocus, a industry leading provider of chemical disclosures in national hydraulic fracturing. 
+- Due to large size of dataset and to address performance issue, the data is first cleansed and the attributes normalized
+  - Attributes were normalized using the min-max normalization
+  - Target data was binned so that understanding the distribution was made easier
+- Focus on water and non-water substance’s used in the base of the hydraulic system of each well used in the fracking jobs
+- Wells were grouped by the demographic data grouped by State and County
+- Water has vital role in fracking and drilling, as also is a key resource for local communities. It is important that the Well Operators assume the social responsibility of the balanced use of fresh water
 
 ## Tools Used
-To conduct this analysis, Jupyter Notebook was used to write clean and concise `Python` code to read the data. The data was cleaned apporopriately and the analysis was run on the cleaned data. `Pandas DataFrame` was used to read and store the data and `matplotlib` was used to create insightful graphs about the volume of water and nonwater substances used by the different wells around the United States. 
+Jupyter Notebook was used to:
+- Write clean and concise `Python` code to read the data
+- Run analysis on the cleaned data
+ 
+`Pandas DataFrame` was used to:
+ - Read and store the data 
+
+`matplotlib` was used to: <br>
+ - Create insightful graphs about the analyzed data 
 
 ## Findings and Graphs
 **State that used the least amount of water:** Idaho <br>
@@ -168,8 +178,12 @@ To conduct this analysis, Jupyter Notebook was used to write clean and concise `
 </p>
 
 ## Conclusion
-There are many interesting conclusions that can be drawn from this data that can help businesses make insightful descisions or allocate resources to the wells that need it most. The focus of this analysis was on the amount of water and nonwater materials used in well jobs. Water is, arguably, this planet's most precious resource but not most abundant, and so, it is everyone's responsibility to use it wisely. With this data, one can determine how severely the location's fracking activity is having on the local water supply. Another use case for this data is to be used as a factor in determining whether to increase drilling in a specific location. An operator may choose to not continue fracking if a lot of water needs to be used at the specific location.
-<br>
+Several insights can be drawn from this analysis
+  - Resources needed to be allocated at the Well level
+  - Appropriate usage of planet’s most critical commodity i.e. Water
+  - Impact of fracking activity at precise geo location level
+  - Areas of expansion of drilling activity by location
+  - Discontinuation of fracking activity of non-performing Well
 ## Other Areas to Analyze
 There are many other areas to focus an analysis, however, with the constraint of time and resources, this analysis has been limited to just the usage of water. One such area could be about the materials used in the wells for different purposes. For example, many wells used Crystalline Silica Quartz as a proppant, others used Coconut Diethanolamide as a non-emulsifying acid. After grouping all the materials by their location, businesses can use this knowledge to determine what materials are needed where and therefore allocate their own supplies to the places of high demand. 
 
