@@ -188,7 +188,7 @@ Several insights can be drawn from this analysis
 ## Other Areas to Analyze
 Due to the constraint of time and resources, this analysis has been limited to just the usage of water. <br>
 Other areas to analyze: 
-- The materials used in the wells for different purposes. 
+- Grouping materials used in the wells by location 
   - Many wells used Crystalline Silica Quartz as a proppant, others used Coconut Diethanolamide as a non-emulsifying acid. 
-  - After grouping all the materials by their location, businesses can use this knowledge to determine what materials are needed where and therefore allocate their own supplies to the places of high demand. 
+  - After grouping, businesses can determine what materials are needed where and therefore allocate their own supplies to the places of high demand. 
 
