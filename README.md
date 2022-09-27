@@ -186,9 +186,6 @@ Several insights can be drawn from this analysis
   - Areas of expansion of drilling activity by location
   - Discontinuation of fracking activity of non-performing Well
 ## Other Areas to Analyze
-Due to the constraint of time and resources, this analysis has been limited to just the usage of water. <br>
-Other areas to analyze: 
-- Grouping materials used in the wells by location 
-  - Many wells used Crystalline Silica Quartz as a proppant, others used Coconut Diethanolamide as a non-emulsifying acid. 
-  - After grouping, businesses can determine what materials are needed where and therefore allocate their own supplies to the places of high demand. 
-
+Other areas of useful insights that can be leveraged from this analysis are as below (not comprehensive)
+  - Various purposes of different materials used in the Well
+  - Supply chain models can be developed on these materials for optimal levels of inventory resulting in cost effective pricing
