@@ -1,4 +1,4 @@
-# CaseStudy2 - FracFocus
+# Insight to Oil Wells' Fracking Activity - FracFocus
 
 ## Introduction
 This Case Study involves running Statistical Analysis on a Dataset provided by FracFocus, a industry leading provider of chemical disclosures in national hydraulic fracturing. 
